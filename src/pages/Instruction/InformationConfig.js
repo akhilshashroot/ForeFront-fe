@@ -16,13 +16,13 @@ const InformationConfig = (props) => {
               Performance Evaluation Portal
             </h3>
             <p>
-              Autowelkin One is a single window system where all employee records
+              ForeFront is a single window system where all employee records
               including work reports, performance scores, leave details will be
               logged for reference throughout their employment at HashRoot.
             </p>
             <h4 className="text-info">PUNCH-IN TYPES</h4>
             <p>
-              Each employee shall access his Autowelkin One at the beginning of each
+              Each employee shall access his ForeFront at the beginning of each
               shift. The check-in time shall be logged and marked as beginning
               of his/her shift.
             </p>
@@ -86,19 +86,19 @@ const InformationConfig = (props) => {
             </p>
             <p>
               Idle Check – An idle time checker will be activated randomly
-              through Autowelkin One during home logins. With this a counter will
+              through ForeFront during home logins. With this a counter will
               automatically count the time until you acknowledge the pop-up. The
               idle time report received thus will be marked and considered for
               further actions
             </p>
             <p>
               Punching out of the portal will be marked as the end of shift. It
-              is mandatory that all techs sign out of the Autowelkin One after
+              is mandatory that all techs sign out of the ForeFront after
               concluding the shift.
             </p>
             <h4 className="text-info">WORK FLOW</h4>
             <p>
-              Each employee shall access his Autowelkin One at the beginning of each
+              Each employee shall access his ForeFront at the beginning of each
               shift. The check-in time shall be logged and marked as beginning
               of his/her shift
             </p>
@@ -127,7 +127,7 @@ const InformationConfig = (props) => {
               Details of any additional tasks should be added in the text box
               towards the end of the same page. We have introduced sections
               called ‘Golden responses/Thanks Replies" and "Challenge of the
-              day" in the Autowelkin One where techs could log all appreciation or
+              day" in the ForeFront where techs could log all appreciation or
               gratitude responses they receive through chats or tickets.
             </p>
             <p>
@@ -136,7 +136,7 @@ const InformationConfig = (props) => {
             </p>
             <p>
               Punching out of the portal will be marked as the end of shift. It
-              is mandatory that all techs sign out of the Autowelkin One after
+              is mandatory that all techs sign out of the ForeFront after
               concluding the shift. If you missed to punch out, the shift shall
               be closed through an automated force punch-out cron.
             </p>
@@ -152,13 +152,13 @@ const InformationConfig = (props) => {
               used currently. Any details including new client updates,
               scheduled tasks, new client policies, pending tickets, handled
               chats etc should be passed to other team member before you punch
-              out from the Autowelkin One.
+              out from the ForeFront.
             </p>
             <h4 className="text-info">SHIFT SCHEDULE</h4>
             <p>
               The team lead or the shift admin who prepares the shift schedule
               for the team, need to update the same under 'Weekly shift' tab in
-              the Autowelkin One. You could select the names of the team members
+              the ForeFront. You could select the names of the team members
               assigned to a shift from the drop down menu.
             </p>
             <p>
@@ -338,7 +338,7 @@ const InformationConfig = (props) => {
             </p>
             <p>
               The tech who is willing to swap the shift, should also report the
-              Swap through Autowelkin One.
+              Swap through ForeFront.
             </p>
             <p>Swap leaves are always approved by default.</p>
             <h5 className="text-info">Loss Of Pay</h5>

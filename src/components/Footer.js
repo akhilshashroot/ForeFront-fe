@@ -9,7 +9,7 @@ const Footer = () => {
             <footer className="footer">
                 <div className="container-fluid">
                     <Row>
-                        <Col md={6}>{currentYear} © Autowelkin One - <a href='https://www.hashroot.com/'>hashroot.com</a> </Col>
+                        <Col md={6}>{currentYear} © ForeFront - <a href='https://www.hashroot.com/'>hashroot.com</a> </Col>
 
                         {/* <Col md={6}>
                             <div className="text-md-right footer-links d-none d-md-block">
