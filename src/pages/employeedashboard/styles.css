@@ -1,0 +1,7 @@
+@media screen and (max-width: 700px) {
+    .res_cards{
+       
+        flex: none!important;
+    }
+    
+}
