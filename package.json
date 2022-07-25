@@ -1,5 +1,5 @@
 {
-  "name": "hashRoot-one",
+  "name": "Forefront",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -84,5 +84,5 @@
     "flow-bin": "^0.125.1",
     "redux-saga-test-plan": "^4.0.0-beta.3"
   },
-  "homepage": "https://one.autowelkin.com/"
+  "homepage": "https://forefront.hashroot.in/"
 }
